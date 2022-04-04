@@ -1,1 +1,1 @@
-![image](%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0.png)
+![image](image.png)
